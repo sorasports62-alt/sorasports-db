@@ -21,7 +21,30 @@
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
-      "channels": [],
+      "channels": [
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 1",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "c0c0d41c-c986-48da-a55b-5d12989ef59c"
+        }
+      ],
       "userAgent": "",
       "referrer": "",
       "cookie": "",
@@ -60,5 +83,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-05-28T21:13:17.529Z"
+  "lastUpdated": "2026-05-28T21:13:39.569Z"
 }
