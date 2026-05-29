@@ -56,7 +56,8 @@
       "fairplayUrl": "",
       "teamAId": "2671",
       "teamBId": "2673",
-      "matchTime": "65'"
+      "matchTime": "65'",
+      "isPinned": true
     }
   ],
   "movies": [],
@@ -84,5 +85,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-05-29T16:12:17.899Z"
+  "lastUpdated": "2026-05-29T16:12:47.607Z"
 }
