@@ -201,7 +201,30 @@
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
-      "channels": [],
+      "channels": [
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 1",
+          "url": "https://youtu.be/C43V6IFjWNw?si=k2g1XGAcVaJLzsNu",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "6fb03dad-7634-4fbb-947d-17b2f323b45f"
+        }
+      ],
       "userAgent": "",
       "referrer": "",
       "cookie": "",
@@ -235,7 +258,30 @@
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
-      "channels": [],
+      "channels": [
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 1",
+          "url": "https://youtu.be/C43V6IFjWNw?si=k2g1XGAcVaJLzsNu",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "cceed88c-8ac3-49a3-b69a-981e6bdae79a"
+        }
+      ],
       "userAgent": "",
       "referrer": "",
       "cookie": "",
@@ -274,5 +320,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-01T17:35:02.446Z"
+  "lastUpdated": "2026-06-01T17:35:32.374Z"
 }
