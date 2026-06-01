@@ -17,7 +17,7 @@
       "startTime": "2026-06-01T21:00",
       "endTime": "",
       "startTimestamp": 1780329600,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -99,7 +99,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "493843",
-      "teamBId": "493844"
+      "teamBId": "493844",
+      "matchTime": "Ended"
     },
     {
       "id": "b60be62c-65b2-4049-bf99-4582e881de56",
@@ -109,8 +110,8 @@
       "teamB": "HNK Fruškogorac Ilok - Veterani",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/493836/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/493832/image",
-      "scoreA": "0",
-      "scoreB": "0",
+      "scoreA": "2",
+      "scoreB": "2",
       "eventId": "15868207",
       "sofaId": "15868207",
       "scoreSource": "sofascore",
@@ -118,7 +119,7 @@
       "startTime": "2026-06-01T21:00",
       "endTime": "",
       "startTimestamp": 1780329600,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -179,7 +180,7 @@
       "fairplayUrl": "",
       "teamAId": "493836",
       "teamBId": "493832",
-      "matchTime": "Started"
+      "matchTime": "Ended"
     },
     {
       "id": "6a8252be-a788-4d03-b9bc-c4c9f44039f1",
@@ -198,7 +199,7 @@
       "startTime": "2026-06-01T21:00",
       "endTime": "",
       "startTimestamp": 1780329600,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -281,7 +282,7 @@
       "fairplayUrl": "",
       "teamAId": "493840",
       "teamBId": "493841",
-      "matchTime": "Started"
+      "matchTime": "Ended"
     },
     {
       "id": "d505a953-c936-4c64-8647-a87fea7904a4",
@@ -300,7 +301,7 @@
       "startTime": "2026-06-01T21:00",
       "endTime": "",
       "startTimestamp": 1780329600,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -383,7 +384,7 @@
       "fairplayUrl": "",
       "teamAId": "493835",
       "teamBId": "493833",
-      "matchTime": "Started"
+      "matchTime": "Ended"
     }
   ],
   "movies": [],
@@ -411,5 +412,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-01T19:01:26.829Z"
+  "lastUpdated": "2026-06-01T19:01:45.856Z"
 }
