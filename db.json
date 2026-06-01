@@ -127,7 +127,7 @@
           "logo": "",
           "functionType": "token",
           "name": "Server 1",
-          "url": "https://youtu.be/C43V6IFjWNw?si=k2g1XGAcVaJLzsNu",
+          "url": "https://www.dailymotion.com/video/xaccpqm",
           "licenseUrl": "",
           "drmType": "ClearKey",
           "clearKey": "",
@@ -149,7 +149,7 @@
           "logo": "",
           "functionType": "token",
           "name": "Server 2",
-          "url": "https://youtu.be/C43V6IFjWNw?si=k2g1XGAcVaJLzsNu",
+          "url": "https://www.dailymotion.com/video/xaccpqm",
           "licenseUrl": "",
           "drmType": "ClearKey",
           "clearKey": "",
@@ -323,5 +323,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-01T17:46:26.427Z"
+  "lastUpdated": "2026-06-01T17:46:49.732Z"
 }
