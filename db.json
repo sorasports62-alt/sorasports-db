@@ -1,6 +1,42 @@
 {
   "matches": [
     {
+      "id": "ae652aba-5794-428c-b4c3-4a46b89c84b8",
+      "eventName": "",
+      "eventLogo": "",
+      "teamA": "Caxias U20",
+      "teamB": "Juventude U20",
+      "teamA_logo": "https://img.sofascore.com/api/v1/team/255945/image",
+      "teamB_logo": "https://img.sofascore.com/api/v1/team/224003/image",
+      "scoreA": "1",
+      "scoreB": "4",
+      "eventId": "16233357",
+      "sofaId": "16233357",
+      "scoreSource": "sofascore",
+      "category": "Football | U20 Gaúcho, Série A1, Playoffs",
+      "startTime": "2026-06-01T23:00",
+      "endTime": "",
+      "startTimestamp": 1780336800,
+      "isLive": false,
+      "streamUrl": "",
+      "streamType": "HLS (.m3u8)",
+      "backups": [],
+      "channels": [],
+      "userAgent": "",
+      "referrer": "",
+      "cookie": "",
+      "clearKey": "",
+      "origin": "",
+      "drmType": "None",
+      "widevineUrl": "",
+      "playreadyUrl": "",
+      "fairplayUrl": "",
+      "teamAId": "255945",
+      "teamBId": "224003",
+      "matchTime": "Ended",
+      "isPinned": true
+    },
+    {
       "id": "2d45177c-046c-45f8-9576-88c521ff21c2",
       "eventName": "",
       "eventLogo": "",
@@ -33,7 +69,8 @@
       "fairplayUrl": "",
       "teamAId": "264358",
       "teamBId": "462168",
-      "matchTime": "Ended"
+      "matchTime": "Ended",
+      "isPinned": true
     },
     {
       "id": "920a95e2-5cfa-436f-a1cf-bb4dd681f002",
@@ -68,7 +105,8 @@
       "fairplayUrl": "",
       "teamAId": "37256",
       "teamBId": "82799",
-      "matchTime": "AP"
+      "matchTime": "AP",
+      "isPinned": true
     },
     {
       "id": "6e7007a3-aa87-4684-b4bf-88a662c0a162",
@@ -246,41 +284,6 @@
       "matchTime": "Ended"
     },
     {
-      "id": "ae652aba-5794-428c-b4c3-4a46b89c84b8",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "Caxias U20",
-      "teamB": "Juventude U20",
-      "teamA_logo": "https://img.sofascore.com/api/v1/team/255945/image",
-      "teamB_logo": "https://img.sofascore.com/api/v1/team/224003/image",
-      "scoreA": "1",
-      "scoreB": "4",
-      "eventId": "16233357",
-      "sofaId": "16233357",
-      "scoreSource": "sofascore",
-      "category": "Football | U20 Gaúcho, Série A1, Playoffs",
-      "startTime": "2026-06-01T23:00",
-      "endTime": "",
-      "startTimestamp": 1780336800,
-      "isLive": false,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "255945",
-      "teamBId": "224003",
-      "matchTime": "Ended"
-    },
-    {
       "id": "0446c6e5-325b-44c6-a459-4cf28861fd48",
       "eventName": "",
       "eventLogo": "",
@@ -379,5 +382,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-02T21:24:44.076Z"
+  "lastUpdated": "2026-06-02T21:25:14.236Z"
 }
