@@ -353,7 +353,10 @@
   ],
   "movies": [],
   "channels": [],
-  "config": {},
+  "config": {
+    "zoomLevel": 100,
+    "fontSize": 110
+  },
   "ads": {
     "activeNetwork": "monetag",
     "monetagUrl": "",
@@ -376,5 +379,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-02T21:23:57.665Z"
+  "lastUpdated": "2026-06-02T21:24:27.587Z"
 }
