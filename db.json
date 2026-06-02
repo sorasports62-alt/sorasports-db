@@ -8,7 +8,7 @@
       "teamB": "Michele Ribecai",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/264358/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/462168/image",
-      "scoreA": "1",
+      "scoreA": "2",
       "scoreB": "1",
       "eventId": "16257655",
       "sofaId": "16257655",
@@ -17,7 +17,7 @@
       "startTime": "2026-06-01T20:30",
       "endTime": "",
       "startTimestamp": 1780327800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -32,7 +32,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "264358",
-      "teamBId": "462168"
+      "teamBId": "462168",
+      "matchTime": "Ended"
     },
     {
       "id": "920a95e2-5cfa-436f-a1cf-bb4dd681f002",
@@ -51,7 +52,7 @@
       "startTime": "2026-06-01T22:30",
       "endTime": "",
       "startTimestamp": 1780335000,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -66,7 +67,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "37256",
-      "teamBId": "82799"
+      "teamBId": "82799",
+      "matchTime": "AP"
     },
     {
       "id": "6e7007a3-aa87-4684-b4bf-88a662c0a162",
@@ -85,7 +87,7 @@
       "startTime": "2026-06-01T22:30",
       "endTime": "",
       "startTimestamp": 1780335000,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -100,7 +102,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "222877",
-      "teamBId": "1072507"
+      "teamBId": "1072507",
+      "matchTime": "Ended"
     },
     {
       "id": "41e17efa-767e-4dd9-bb63-be5c0a82577b",
@@ -119,7 +122,7 @@
       "startTime": "2026-06-01T22:30",
       "endTime": "",
       "startTimestamp": 1780335008,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -134,7 +137,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "1107233",
-      "teamBId": "1107234"
+      "teamBId": "1107234",
+      "matchTime": "Ended"
     },
     {
       "id": "a8c17e35-b907-4d4c-9a15-4e454154dea9",
@@ -145,7 +149,7 @@
       "teamA_logo": "https://img.sofascore.com/api/v1/team/324612/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/936833/image",
       "scoreA": "1",
-      "scoreB": "1",
+      "scoreB": "2",
       "eventId": "16261512",
       "sofaId": "16261512",
       "scoreSource": "sofascore",
@@ -153,7 +157,7 @@
       "startTime": "2026-06-01T22:31",
       "endTime": "",
       "startTimestamp": 1780335086,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -168,7 +172,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "324612",
-      "teamBId": "936833"
+      "teamBId": "936833",
+      "matchTime": "Ended"
     },
     {
       "id": "55e3cb62-95b0-4770-84c7-2f2d6ec0b9ed",
@@ -179,7 +184,7 @@
       "teamA_logo": "https://img.sofascore.com/api/v1/team/332805/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/276751/image",
       "scoreA": "2",
-      "scoreB": "0",
+      "scoreB": "1",
       "eventId": "16016101",
       "sofaId": "16016101",
       "scoreSource": "sofascore",
@@ -187,7 +192,7 @@
       "startTime": "2026-06-01T23:00",
       "endTime": "",
       "startTimestamp": 1780336800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -202,7 +207,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "332805",
-      "teamBId": "276751"
+      "teamBId": "276751",
+      "matchTime": "Ended"
     },
     {
       "id": "4b777ee4-33c6-43ae-81ad-08173750f90d",
@@ -221,7 +227,7 @@
       "startTime": "2026-06-01T23:00",
       "endTime": "",
       "startTimestamp": 1780336800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -236,7 +242,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "413728",
-      "teamBId": "235852"
+      "teamBId": "235852",
+      "matchTime": "Ended"
     },
     {
       "id": "ae652aba-5794-428c-b4c3-4a46b89c84b8",
@@ -247,7 +254,7 @@
       "teamA_logo": "https://img.sofascore.com/api/v1/team/255945/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/224003/image",
       "scoreA": "1",
-      "scoreB": "3",
+      "scoreB": "4",
       "eventId": "16233357",
       "sofaId": "16233357",
       "scoreSource": "sofascore",
@@ -255,7 +262,7 @@
       "startTime": "2026-06-01T23:00",
       "endTime": "",
       "startTimestamp": 1780336800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -270,7 +277,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "255945",
-      "teamBId": "224003"
+      "teamBId": "224003",
+      "matchTime": "Ended"
     },
     {
       "id": "0446c6e5-325b-44c6-a459-4cf28861fd48",
@@ -289,7 +297,7 @@
       "startTime": "2026-06-01T23:00",
       "endTime": "",
       "startTimestamp": 1780336800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -304,7 +312,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "417154",
-      "teamBId": "200653"
+      "teamBId": "200653",
+      "matchTime": "Ended"
     },
     {
       "id": "c5e1dfc2-4f34-4595-8068-51b2aba701a3",
@@ -314,8 +323,8 @@
       "teamB": "SpG Empor Schenkenberg/​ Eintracht Glindow Ü60",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/1207833/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/1207829/image",
-      "scoreA": "0",
-      "scoreB": "0",
+      "scoreA": "1",
+      "scoreB": "6",
       "eventId": "15858130",
       "sofaId": "15858130",
       "scoreSource": "sofascore",
@@ -323,7 +332,7 @@
       "startTime": "2026-06-01T23:00",
       "endTime": "",
       "startTimestamp": 1780336800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -338,7 +347,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "1207833",
-      "teamBId": "1207829"
+      "teamBId": "1207829",
+      "matchTime": "Ended"
     }
   ],
   "movies": [],
@@ -366,5 +376,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-02T12:23:19.740Z"
+  "lastUpdated": "2026-06-02T12:23:40.919Z"
 }
