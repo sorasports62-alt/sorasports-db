@@ -370,7 +370,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -386,7 +386,8 @@
       "fairplayUrl": "",
       "teamAId": "1207740",
       "teamBId": "501275",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "640449fc-19cc-44f4-8233-3821c67580e2",
@@ -397,7 +398,7 @@
       "teamA_logo": "https://img.sofascore.com/api/v1/team/425271/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/456681/image",
       "scoreA": "221",
-      "scoreB": "38",
+      "scoreB": "136",
       "eventId": "16219784",
       "sofaId": "16219784",
       "scoreSource": "sofascore",
@@ -405,7 +406,7 @@
       "startTime": "2026-06-03T12:30",
       "endTime": "",
       "startTimestamp": 1780471800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -421,7 +422,8 @@
       "fairplayUrl": "",
       "teamAId": "425271",
       "teamBId": "456681",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "fa9cd4e9-d7f4-4dfb-9bd0-c663c7908b1a",
@@ -431,7 +433,7 @@
       "teamB": "Goto T.",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/72298/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/500638/image",
-      "scoreA": "1",
+      "scoreA": "4",
       "scoreB": "2",
       "eventId": "16249317",
       "sofaId": "16249317",
@@ -440,7 +442,7 @@
       "startTime": "2026-06-03T14:55",
       "endTime": "",
       "startTimestamp": 1780480500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -456,7 +458,8 @@
       "fairplayUrl": "",
       "teamAId": "72298",
       "teamBId": "500638",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "cc6e42ad-f614-479e-af32-665365b9a6df",
@@ -466,7 +469,7 @@
       "teamB": "Maitland FC",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/419543/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/1165385/image",
-      "scoreA": "1",
+      "scoreA": "2",
       "scoreB": "6",
       "eventId": "16251784",
       "sofaId": "16251784",
@@ -475,7 +478,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -491,7 +494,8 @@
       "fairplayUrl": "",
       "teamAId": "419543",
       "teamBId": "1165385",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "2f4d03c1-986b-4289-94bf-9db6e198fc56",
@@ -510,7 +514,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -526,7 +530,8 @@
       "fairplayUrl": "",
       "teamAId": "501019",
       "teamBId": "1072785",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "2c46469e-8402-431f-bcac-e4b732c37377",
@@ -545,7 +550,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -561,7 +566,8 @@
       "fairplayUrl": "",
       "teamAId": "1071679",
       "teamBId": "1204417",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     },
     {
       "id": "74fcf02e-709d-4fda-9f95-9b8ec175f401",
@@ -580,7 +586,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -595,7 +601,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "1079152",
-      "teamBId": "253810"
+      "teamBId": "253810",
+      "matchTime": "Ended"
     },
     {
       "id": "a08e7b81-a919-4891-ba65-5c31db75ccd9",
@@ -606,7 +613,7 @@
       "teamA_logo": "https://img.sofascore.com/api/v1/team/1226193/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/501271/image",
       "scoreA": "0",
-      "scoreB": "1",
+      "scoreB": "2",
       "eventId": "16238382",
       "sofaId": "16238382",
       "scoreSource": "sofascore",
@@ -614,7 +621,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -629,7 +636,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "1226193",
-      "teamBId": "501271"
+      "teamBId": "501271",
+      "matchTime": "Ended"
     },
     {
       "id": "1ab33afd-4aa8-44f6-a35d-ef820ade24e2",
@@ -648,7 +656,7 @@
       "startTime": "2026-06-03T13:15",
       "endTime": "",
       "startTimestamp": 1780474500,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -663,7 +671,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "1086400",
-      "teamBId": "1087641"
+      "teamBId": "1087641",
+      "matchTime": "Ended"
     },
     {
       "id": "b22fcf0b-f22a-494e-a1a7-f412832e4282",
@@ -673,7 +682,7 @@
       "teamB": "AS Sainte Anne",
       "teamA_logo": "https://img.sofascore.com/api/v1/team/377238/image",
       "teamB_logo": "https://img.sofascore.com/api/v1/team/520033/image",
-      "scoreA": "1",
+      "scoreA": "0",
       "scoreB": "0",
       "eventId": "16241203",
       "sofaId": "16241203",
@@ -682,7 +691,7 @@
       "startTime": "2026-06-03T13:30",
       "endTime": "",
       "startTimestamp": 1780475400,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -698,7 +707,8 @@
       "fairplayUrl": "",
       "teamAId": "377238",
       "teamBId": "520033",
-      "isPinned": true
+      "isPinned": true,
+      "matchTime": "Ended"
     }
   ],
   "movies": [],
@@ -729,5 +739,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-03T12:48:52.345Z"
+  "lastUpdated": "2026-06-03T12:49:08.997Z"
 }
