@@ -736,8 +736,8 @@
     "globalBlock": false,
     "vpnBlocker": true,
     "antiRoot": true,
-    "aesEncryption": true,
+    "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-05T00:25:59.509Z"
+  "lastUpdated": "2026-06-05T11:15:56.189Z"
 }
