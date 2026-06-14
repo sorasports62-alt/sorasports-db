@@ -291,7 +291,7 @@
       "teamB": "Vila Nova",
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "scoreA": "0",
+      "scoreA": "1",
       "scoreB": "0",
       "eventId": "401873963",
       "sofaId": "401873963",
@@ -300,7 +300,7 @@
       "startTime": "2026-06-15T01:00",
       "endTime": "",
       "startTimestamp": 1781467200,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -339,7 +339,7 @@
       "fairplayUrl": "",
       "teamAId": "17313",
       "teamBId": "9973",
-      "matchTime": "82'",
+      "matchTime": "FT",
       "isPinned": true
     },
     {
@@ -351,7 +351,7 @@
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
       "scoreA": "2",
-      "scoreB": "1",
+      "scoreB": "2",
       "eventId": "760425",
       "sofaId": "760425",
       "scoreSource": "espn|soccer|all",
@@ -359,7 +359,7 @@
       "startTime": "2026-06-15T01:00",
       "endTime": "",
       "startTimestamp": 1781467200,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -398,7 +398,7 @@
       "fairplayUrl": "",
       "teamAId": "449",
       "teamBId": "627",
-      "matchTime": "85'",
+      "matchTime": "FT",
       "isPinned": true
     },
     {
@@ -537,5 +537,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T22:49:32.304Z"
+  "lastUpdated": "2026-06-14T22:49:54.773Z"
 }
