@@ -255,7 +255,7 @@
       "teamB": "Japan",
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-      "scoreA": "1",
+      "scoreA": "2",
       "scoreB": "1",
       "eventId": "760425",
       "sofaId": "760425",
@@ -268,7 +268,30 @@
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
-      "channels": [],
+      "channels": [
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 1",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "4ab2e7c0-bb78-43f6-9967-c0dd74588829"
+        }
+      ],
       "userAgent": "",
       "referrer": "",
       "cookie": "",
@@ -279,7 +302,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "449",
-      "teamBId": "627"
+      "teamBId": "627",
+      "matchTime": "82'"
     },
     {
       "id": "93cfe74f-00da-41af-88cb-2ff1a1ffa157",
@@ -313,7 +337,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "17313",
-      "teamBId": "9973"
+      "teamBId": "9973",
+      "matchTime": "78'"
     },
     {
       "id": "3dc8aa1a-e15d-457b-a0ea-48b2552c5576",
@@ -347,7 +372,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "131256",
-      "teamBId": "131261"
+      "teamBId": "131261",
+      "matchTime": "0'"
     },
     {
       "id": "2d4ab222-541c-469e-b0e8-c19751c70d2e",
@@ -366,7 +392,7 @@
       "startTime": "2026-06-15T00:30",
       "endTime": "",
       "startTimestamp": 1781465400,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -381,7 +407,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "11993",
-      "teamBId": "10157"
+      "teamBId": "10157",
+      "matchTime": "FT"
     },
     {
       "id": "e7243da4-c3ac-4756-b06a-e1210555de98",
@@ -400,7 +427,7 @@
       "startTime": "2026-06-15T00:30",
       "endTime": "",
       "startTimestamp": 1781465400,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -415,7 +442,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "11978",
-      "teamBId": "10163"
+      "teamBId": "10163",
+      "matchTime": "FT"
     },
     {
       "id": "542f0764-7f2b-4cad-9493-49e8e44bac7f",
@@ -425,8 +453,8 @@
       "teamB": "Ituano",
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6214.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4774.png",
-      "scoreA": "0",
-      "scoreB": "0",
+      "scoreA": "2",
+      "scoreB": "2",
       "eventId": "401862491",
       "sofaId": "401862491",
       "scoreSource": "espn|soccer|all",
@@ -434,7 +462,7 @@
       "startTime": "2026-06-15T00:30",
       "endTime": "",
       "startTimestamp": 1781465400,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -449,7 +477,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "6214",
-      "teamBId": "4774"
+      "teamBId": "4774",
+      "matchTime": "FT"
     }
   ],
   "movies": [],
@@ -482,5 +511,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T21:40:44.280Z"
+  "lastUpdated": "2026-06-14T21:41:08.207Z"
 }
