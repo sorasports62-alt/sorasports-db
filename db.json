@@ -87,7 +87,7 @@
       "startTime": "2026-06-14T23:00",
       "endTime": "",
       "startTimestamp": 1781460000,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -104,7 +104,7 @@
       "teamAId": "18260",
       "teamBId": "10058",
       "isPinned": true,
-      "matchTime": "90'+5'"
+      "matchTime": "FT"
     },
     {
       "id": "43c75e40-d850-4562-9ce1-781b1cb905bc",
@@ -139,7 +139,7 @@
       "fairplayUrl": "",
       "teamAId": "9743",
       "teamBId": "10145",
-      "matchTime": "59'"
+      "matchTime": "61'"
     },
     {
       "id": "ca98ad27-4775-44f1-8db7-79609c821bef",
@@ -175,7 +175,7 @@
       "teamAId": "10374",
       "teamBId": "9747",
       "isPinned": true,
-      "matchTime": "63'"
+      "matchTime": "64'"
     },
     {
       "id": "44c1c7bf-6edc-467a-9f68-e7380c8098a8",
@@ -243,5 +243,5 @@
     "aesEncryption": true,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T20:00:07.440Z"
+  "lastUpdated": "2026-06-14T20:00:34.447Z"
 }
