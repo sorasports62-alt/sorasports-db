@@ -306,6 +306,52 @@
           "userAgent": "",
           "id": "b1034bdf-bcfa-4f18-88e0-12e078b50771",
           "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/131256.png"
+        },
+        {
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131256.png",
+          "functionType": "token",
+          "name": "Server 4",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "888edd5b-dcca-46a3-b7aa-473f6bbba749",
+          "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/131256.png"
+        },
+        {
+          "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131256.png",
+          "functionType": "token",
+          "name": "Server 5",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "296b70ca-84fa-451b-b478-bf98d3aa06e0",
+          "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/131256.png"
         }
       ],
       "userAgent": "",
@@ -557,5 +603,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T21:53:38.944Z"
+  "lastUpdated": "2026-06-14T21:53:48.413Z"
 }
