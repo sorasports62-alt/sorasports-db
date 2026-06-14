@@ -271,12 +271,12 @@
     "videoAdSkipTimer": 5
   },
   "security": {
-    "adToUnlock": false,
+    "adToUnlock": true,
     "globalBlock": false,
     "vpnBlocker": true,
-    "antiRoot": false,
-    "aesEncryption": true,
+    "antiRoot": true,
+    "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T21:19:50.879Z"
+  "lastUpdated": "2026-06-14T21:21:51.256Z"
 }
