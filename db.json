@@ -189,37 +189,6 @@
       "teamBId": "18844"
     },
     {
-      "id": "00a32386-4671-4313-9bf6-ca1a8a70a4e3",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "Austria",
-      "teamB": "Jordan",
-      "teamA_logo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
-      "teamB_logo": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
-      "eventId": "2391741",
-      "sofaId": "2391741",
-      "category": "Football | FIFA World Cup",
-      "startTime": "1970-01-01T05:33",
-      "endTime": "",
-      "startTimestamp": 2026,
-      "isLive": false,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "135986",
-      "teamBId": "140145"
-    },
-    {
       "id": "3dc8aa1a-e15d-457b-a0ea-48b2552c5576",
       "eventName": "",
       "eventLogo": "",
@@ -626,5 +595,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-14T22:53:50.051Z"
+  "lastUpdated": "2026-06-14T23:27:54.886Z"
 }
