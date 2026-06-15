@@ -1163,7 +1163,7 @@
   "ads": {
     "activeNetwork": "monetag",
     "monetagUrl": "",
-    "frequency": 3,
+    "frequency": 0,
     "coreAdsEnabled": true,
     "popAdsEnabled": true,
     "popImageUrl": "",
@@ -1182,5 +1182,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-15T01:36:49.270Z"
+  "lastUpdated": "2026-06-15T01:37:22.642Z"
 }
