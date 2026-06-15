@@ -504,7 +504,7 @@
       "fairplayUrl": "",
       "teamAId": "229",
       "teamBId": "226",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "b226bd6f-1c4c-490b-9349-045aa0767c9c",
@@ -539,7 +539,7 @@
       "fairplayUrl": "",
       "teamAId": "10125",
       "teamBId": "232",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "9a114521-204e-465e-9c6b-53ee66df52f6",
@@ -574,7 +574,7 @@
       "fairplayUrl": "",
       "teamAId": "3736",
       "teamBId": "2566",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "f57a5901-da5a-46ee-9c55-b6bea79d9dfd",
@@ -1247,5 +1247,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-15T04:30:05.796Z"
+  "lastUpdated": "2026-06-15T04:30:27.890Z"
 }
