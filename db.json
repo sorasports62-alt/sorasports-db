@@ -759,7 +759,7 @@
       "teamB": "Tunisia",
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
-      "scoreA": "2",
+      "scoreA": "5",
       "scoreB": "1",
       "eventId": "760424",
       "sofaId": "760424",
@@ -768,7 +768,7 @@
       "startTime": "2026-06-15T07:00",
       "endTime": "",
       "startTimestamp": 1781488800,
-      "isLive": true,
+      "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -830,7 +830,7 @@
       "teamAId": "466",
       "teamBId": "659",
       "isPinned": true,
-      "matchTime": "HT"
+      "matchTime": "FT"
     },
     {
       "id": "d661cced-b711-41c0-adbe-67899e1ba37a",
@@ -1247,5 +1247,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-15T03:24:14.721Z"
+  "lastUpdated": "2026-06-15T04:26:45.722Z"
 }
