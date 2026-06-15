@@ -609,7 +609,7 @@
       "fairplayUrl": "",
       "teamAId": "7868",
       "teamBId": "166",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "0adcbc70-34f9-4d12-ba83-69f2e5dd9e36",
@@ -644,7 +644,7 @@
       "fairplayUrl": "",
       "teamAId": "3236",
       "teamBId": "174",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "a5da5ee9-3d73-41a4-981a-3d11b213eaa8",
@@ -679,42 +679,7 @@
       "fairplayUrl": "",
       "teamAId": "2697",
       "teamBId": "6997",
-      "isPinned": true
-    },
-    {
-      "id": "08e47f4e-83aa-45d7-b742-760101a91ec1",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "Lens",
-      "teamB": "AJ Auxerre",
-      "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-      "scoreA": "0",
-      "scoreB": "0",
-      "eventId": "401876490",
-      "sofaId": "401876490",
-      "scoreSource": "espn|soccer|fra.1",
-      "category": "soccer | Ligue 1",
-      "startTime": "2026-08-22T23:00",
-      "endTime": "",
-      "startTimestamp": 1787421600,
-      "isLive": false,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "175",
-      "teamBId": "172",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "2694e6ac-a664-4c09-b3cd-7131556fddab",
@@ -749,7 +714,7 @@
       "fairplayUrl": "",
       "teamAId": "176",
       "teamBId": "180",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "3bc1a488-e166-439e-b954-6bb853244e13",
@@ -784,7 +749,7 @@
       "fairplayUrl": "",
       "teamAId": "17530",
       "teamBId": "113",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "f59e30ee-1f7a-45aa-bd69-efd5bb15f087",
@@ -854,7 +819,7 @@
       "fairplayUrl": "",
       "teamAId": "118",
       "teamBId": "2572",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "4afffdbc-e37d-4170-b7bd-3f3713c89633",
@@ -889,7 +854,42 @@
       "fairplayUrl": "",
       "teamAId": "239",
       "teamBId": "103",
-      "isPinned": true
+      "isPinned": false
+    },
+    {
+      "id": "08e47f4e-83aa-45d7-b742-760101a91ec1",
+      "eventName": "",
+      "eventLogo": "",
+      "teamA": "Lens",
+      "teamB": "AJ Auxerre",
+      "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+      "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+      "scoreA": "0",
+      "scoreB": "0",
+      "eventId": "401876490",
+      "sofaId": "401876490",
+      "scoreSource": "espn|soccer|fra.1",
+      "category": "soccer | Ligue 1",
+      "startTime": "2026-08-22T23:00",
+      "endTime": "",
+      "startTimestamp": 1787421600,
+      "isLive": false,
+      "streamUrl": "",
+      "streamType": "HLS (.m3u8)",
+      "backups": [],
+      "channels": [],
+      "userAgent": "",
+      "referrer": "",
+      "cookie": "",
+      "clearKey": "",
+      "origin": "",
+      "drmType": "None",
+      "widevineUrl": "",
+      "playreadyUrl": "",
+      "fairplayUrl": "",
+      "teamAId": "175",
+      "teamBId": "172",
+      "isPinned": false
     },
     {
       "id": "26f79abe-60a6-4748-b2c9-25a0fb773f7f",
@@ -924,7 +924,7 @@
       "fairplayUrl": "",
       "teamAId": "115",
       "teamBId": "2925",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "fc4a7bcc-3466-446c-97c9-0f3edf4cf826",
@@ -959,7 +959,7 @@
       "fairplayUrl": "",
       "teamAId": "110",
       "teamBId": "4007",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "d143d129-8376-40b0-82d7-47408ba84122",
@@ -994,7 +994,7 @@
       "fairplayUrl": "",
       "teamAId": "170",
       "teamBId": "6851",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "ce246ee1-8c3e-4e97-bb9e-100d2aa8fb69",
@@ -1029,7 +1029,7 @@
       "fairplayUrl": "",
       "teamAId": "104",
       "teamBId": "109",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "6181490a-efb6-4ae2-9c8f-befd67f29991",
@@ -1064,7 +1064,7 @@
       "fairplayUrl": "",
       "teamAId": "105",
       "teamBId": "3997",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "d9db5785-6bac-496c-a390-58820665a4ec",
@@ -1099,7 +1099,7 @@
       "fairplayUrl": "",
       "teamAId": "107",
       "teamBId": "112",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "8dcab063-9f9d-4df4-b658-21f0e1c7db5c",
@@ -1134,7 +1134,7 @@
       "fairplayUrl": "",
       "teamAId": "4057",
       "teamBId": "111",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "3790d468-e13a-4743-aa5a-a85bce692ed4",
@@ -1201,5 +1201,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-15T02:04:07.017Z"
+  "lastUpdated": "2026-06-15T02:04:50.816Z"
 }
