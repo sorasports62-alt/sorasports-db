@@ -803,7 +803,7 @@
       "startTime": "2026-06-15T07:00",
       "endTime": "",
       "startTimestamp": 1781488800,
-      "isLive": false,
+      "isLive": true,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -1201,5 +1201,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-15T01:50:26.819Z"
+  "lastUpdated": "2026-06-15T02:01:15.774Z"
 }
