@@ -610,9 +610,9 @@
       "eventId": "760430",
       "sofaId": "760430",
       "category": "Football | Group Stage",
-      "startTime": "2026-06-16T15:00",
+      "startTime": "2026-06-16T21:23",
       "endTime": "",
-      "startTimestamp": 1781647200,
+      "startTimestamp": 1781626980,
       "isLive": false,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
@@ -694,5 +694,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-16T15:47:01.089Z"
+  "lastUpdated": "2026-06-16T16:11:01.942Z"
 }
