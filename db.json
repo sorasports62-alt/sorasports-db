@@ -667,7 +667,7 @@
   "config": {
     "zoomLevel": 100,
     "fontSize": 110,
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "globalMarquee": "we are working in applications so please wait for few hours"
   },
   "ads": {
@@ -692,5 +692,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-16T13:31:04.719Z"
+  "lastUpdated": "2026-06-16T15:46:35.776Z"
 }
