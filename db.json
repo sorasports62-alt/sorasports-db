@@ -1172,6 +1172,37 @@
       "fairplayUrl": "",
       "teamAId": "4375",
       "teamBId": "464"
+    },
+    {
+      "id": "8cfe87f9-bd6a-4c3c-afc2-be5b546bca26",
+      "eventName": "",
+      "eventLogo": "",
+      "teamA": "Fortaleza",
+      "teamB": "América Mineiro",
+      "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+      "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
+      "eventId": "401873948",
+      "sofaId": "401873948",
+      "category": "Football | Brasileiro Serie",
+      "startTime": "2026-06-16T16:00",
+      "endTime": "",
+      "startTimestamp": 1781650800,
+      "isLive": false,
+      "streamUrl": "",
+      "streamType": "HLS (.m3u8)",
+      "backups": [],
+      "channels": [],
+      "userAgent": "",
+      "referrer": "",
+      "cookie": "",
+      "clearKey": "",
+      "origin": "",
+      "drmType": "None",
+      "widevineUrl": "",
+      "playreadyUrl": "",
+      "fairplayUrl": "",
+      "teamAId": "6272",
+      "teamBId": "6154"
     }
   ],
   "movies": [],
@@ -1204,5 +1235,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-16T13:05:46.088Z"
+  "lastUpdated": "2026-06-16T13:06:05.520Z"
 }
