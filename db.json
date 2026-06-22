@@ -84,7 +84,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "6072",
-      "teamBId": "4132"
+      "teamBId": "4132",
+      "isPinned": true
     },
     {
       "id": "8b7dc7eb-60db-46ab-8c91-d22af96e2fdf",
@@ -174,5 +175,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-22T01:30:52.360Z"
+  "lastUpdated": "2026-06-22T01:33:35.454Z"
 }
