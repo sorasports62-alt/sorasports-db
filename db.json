@@ -8,16 +8,13 @@
       "teamB": "Sporting Cristal",
       "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
       "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2673.png",
-      "scoreA": "0",
-      "scoreB": "0",
       "eventId": "401865551",
       "sofaId": "401865551",
-      "scoreSource": "espn|soccer|all",
       "category": "soccer | Group Stage",
       "startTime": "2026-05-29T03:00",
       "endTime": "",
       "startTimestamp": 1780005600,
-      "isLive": false,
+      "isLive": true,
       "streamUrl": "",
       "streamType": "HLS (.m3u8)",
       "backups": [],
@@ -42,7 +39,8 @@
           "origin": "",
           "audioTrackPosition": "",
           "userAgent": "",
-          "id": "c0c0d41c-c986-48da-a55b-5d12989ef59c"
+          "id": "c0c0d41c-c986-48da-a55b-5d12989ef59c",
+          "logoUrl": ""
         }
       ],
       "userAgent": "",
@@ -83,5 +81,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-18T23:32:22.504Z"
+  "lastUpdated": "2026-06-22T01:29:08.201Z"
 }
