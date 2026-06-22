@@ -41,6 +41,52 @@
           "userAgent": "",
           "id": "c0c0d41c-c986-48da-a55b-5d12989ef59c",
           "logoUrl": ""
+        },
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 2",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "4df5ff63-a625-44c0-93fa-6ad3adc47cfd",
+          "logoUrl": ""
+        },
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 3",
+          "url": "",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "09daa3ef-9432-4ea1-8f4a-b1a5c8f393c7",
+          "logoUrl": ""
         }
       ],
       "userAgent": "",
@@ -175,5 +221,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-06-22T01:33:49.125Z"
+  "lastUpdated": "2026-06-22T01:35:04.595Z"
 }
