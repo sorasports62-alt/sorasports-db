@@ -41,6 +41,29 @@
           "userAgent": "",
           "id": "c0c0d41c-c986-48da-a55b-5d12989ef59c",
           "logoUrl": ""
+        },
+        {
+          "logo": "",
+          "functionType": "token",
+          "name": "Server 2",
+          "url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+          "licenseUrl": "",
+          "drmType": "ClearKey",
+          "clearKey": "",
+          "api": "",
+          "linkKey": "playback_url",
+          "defaultString": "",
+          "headers": "",
+          "requestType": "get",
+          "requestBodyType": "text",
+          "requestBody": "",
+          "ipApi": "https://api.ipify.org/",
+          "referer": "",
+          "origin": "",
+          "audioTrackPosition": "",
+          "userAgent": "",
+          "id": "823ba13a-8747-42b8-97a4-6b09d868bb22",
+          "logoUrl": ""
         }
       ],
       "userAgent": "",
@@ -329,5 +352,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-10-17T21:45:56.409Z"
+  "lastUpdated": "2026-10-17T21:49:54.324Z"
 }
