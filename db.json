@@ -76,7 +76,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "2671",
-      "teamBId": "2673"
+      "teamBId": "2673",
+      "isPinned": true
     },
     {
       "id": "70e644c2-61d7-407f-a80d-20e5a8b82e5b",
@@ -107,7 +108,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "17362",
-      "teamBId": "21812"
+      "teamBId": "21812",
+      "isPinned": true
     },
     {
       "id": "241977cf-b359-48cf-92b5-6097f5efd951",
@@ -138,7 +140,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "129689",
-      "teamBId": "20"
+      "teamBId": "20",
+      "isPinned": true
     },
     {
       "id": "33fcacfa-f9d4-4a47-9fc5-8a3b16740f76",
@@ -231,7 +234,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "9744",
-      "teamBId": "7767"
+      "teamBId": "7767",
+      "isPinned": false
     },
     {
       "id": "095b0f9b-0818-4bc8-98f2-3c81487b498d",
@@ -1282,5 +1286,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-10-20T19:44:51.490Z"
+  "lastUpdated": "2026-10-20T19:50:27.595Z"
 }
