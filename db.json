@@ -109,7 +109,7 @@
       "fairplayUrl": "",
       "teamAId": "17362",
       "teamBId": "21812",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "241977cf-b359-48cf-92b5-6097f5efd951",
@@ -235,7 +235,7 @@
       "fairplayUrl": "",
       "teamAId": "9744",
       "teamBId": "7767",
-      "isPinned": false
+      "isPinned": true
     },
     {
       "id": "095b0f9b-0818-4bc8-98f2-3c81487b498d",
@@ -297,7 +297,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "6086",
-      "teamBId": "9318"
+      "teamBId": "9318",
+      "isPinned": true
     },
     {
       "id": "6e6f2e46-1319-47a5-910d-5aa491bf70ed",
@@ -328,7 +329,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "7632",
-      "teamBId": "3456"
+      "teamBId": "3456",
+      "isPinned": true
     },
     {
       "id": "6d8c7278-95d6-429e-9330-31c85dd090ff",
@@ -359,7 +361,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "279",
-      "teamBId": "400"
+      "teamBId": "400",
+      "isPinned": true
     },
     {
       "id": "191caf9d-8838-47a2-a618-df742cada9e3",
@@ -1534,5 +1537,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-10-22T22:44:32.275Z"
+  "lastUpdated": "2026-10-22T22:49:20.025Z"
 }
